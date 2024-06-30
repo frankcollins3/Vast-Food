@@ -1,7 +1,7 @@
 # Vast-Food
 Design concept which views burger king, wendys, mcdonalds as target, k mart, kohls and stomps upon them with Central/Amazonization. 
 
-Also sprung about by a: ../ Data Question (below):
+Also sprung about by a: ../ Data Question (below) asked chatGPT & google for mcDs, wendys, BK no clear answer 
 
 just heard as anyone has a million times on commercials:
 "at participating locations only. prices may vary"
